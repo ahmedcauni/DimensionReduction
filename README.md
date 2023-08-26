@@ -18,6 +18,7 @@ compression, and data visualization.
 Achieved an accuracy of almost 92% for LDA and achieved an accuracy of 97% for PCA 
 
 References
+
 -Hastie, T., Tibshirani, R., & Friedman, J. (2009). The elements of statistical learning: data
 mining, inference, and prediction. Springer Science & Business Media.
 
