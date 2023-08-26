@@ -20,6 +20,9 @@ Achieved an accuracy of almost 92% for LDA and achieved an accuracy of 97% for P
 References
 -Hastie, T., Tibshirani, R., & Friedman, J. (2009). The elements of statistical learning: data
 mining, inference, and prediction. Springer Science & Business Media.
+
 -Duda, R. O., Hart, P. E., & Stork, D. G. (2012). Pattern classification. John Wiley & Sons.
+
 -Jolliffe, I. (2011). Principal component analysis. Springer.
+
 -Shlens, J. (2014). A tutorial on principal component analysis. arXiv preprint arXiv:1404.1100
